@@ -6,3 +6,5 @@ Kodiak Bear
 MSc Forestry
 
 This is a edit I made on Github!
+
+This is an edit I made on Rstudio!
