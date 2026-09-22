@@ -9,3 +9,6 @@ mean_mpg <- mean(mtcars$mpg)
 #Print mean mpg
 
 mean_mpg
+
+#Calculate square root of mean mpg
+sqrt(mean_mpg)
